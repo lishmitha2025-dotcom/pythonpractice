@@ -14,5 +14,15 @@ num1 = 200
 
 print(num1 + num2) 
 
+num1 = 500
+num2 = 200
+
+print(num1 + num2)
+num1 =50
+num2 =10 # this is sample
+
+
+print(num1 + num2)
+
 
 
